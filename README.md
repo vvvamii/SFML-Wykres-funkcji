@@ -12,10 +12,18 @@ Old project from 2020. Written with C++ and using SFML2 for the graphic interfac
 - Polynomial function graphing
 - Music in the background (yes, really - you can disable it though)  
 
+
 ## How to use  
 
 First thing you need to do is to enter the degree of the polynomial function (eg. quadratic function = 2).  
 
 Next you will be asked to enter the coefficients for every single power (eg. linear function -> enter coefficient for x^1 and x^0).  
 
-Finally, the result will be shown in the main window. From there you can use various options show in the menu or enter another function.
+Finally, the result will be shown in the main window. From there you can use various options show in the menu or enter another function.  
+
+
+## Known issues  
+
+- The plot isn't smooth  
+- 'Show points' function does not work properly in certain cases
+- You can't enter the function in main window - you must use console window
