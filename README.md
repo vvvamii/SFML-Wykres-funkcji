@@ -29,7 +29,7 @@ Finally, the result will be shown in the main window. From there you can use var
 - [M]usic mute/unmute  
 - [G]rid show/hide  
 - [P]oints show/hide  
-- [F]ile load ('dane.txt' in 'resources' directory  
+- [F]ile load ('dane.txt' in 'resources' directory)  
 
 ## Screenshots  
 
