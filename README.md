@@ -42,7 +42,7 @@ Finally, the result will be shown in the main window. From there you can use var
 
 ## Known issues  
 
-- The plot isn't smooth  
+- The plot isn't smooth and appears off-center sometimes  
 - 'Show points' function does not work properly in certain cases
 - You can't enter the function in main window - you must use console window
 
